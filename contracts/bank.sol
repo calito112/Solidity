@@ -1,6 +1,6 @@
 pragma solidity ^0.8.5;
 
-contract Practice {
+contract Bank {
 
     address user;
     bool online;
